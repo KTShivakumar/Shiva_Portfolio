@@ -316,7 +316,7 @@
         left: -40px;
     }
     .online{
-        width: 100%;
+        max-width: 100%;
         position: relative;
     }
     .online h3{
