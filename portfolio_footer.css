@@ -385,7 +385,7 @@ label{
     }
     .hed{
         position: relative;
-        font-size: 30px;
+        font-size: 40px;
         top: 60px;
         left: -15px;
         width: 100%;
@@ -410,6 +410,7 @@ label{
     .footer2 label{
         position: relative;
         line-height: 15px;
+        font-size:22px;
         top: -6vh;
         left: 13px;
     }
