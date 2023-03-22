@@ -367,7 +367,7 @@ label{
     }
     .footer_nav a{
         position: relative;
-        font-size: 16px;
+        font-size: 14px;
         display:inline;
         padding: 5px 3.5px;
         left: -28vh;
@@ -438,5 +438,8 @@ label{
         color: #0e0d0d;
         background-color: cadetblue;
         text-transform: uppercase;
+    }
+    script{
+       display:none;
     }
 }
