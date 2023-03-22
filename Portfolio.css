@@ -309,7 +309,7 @@ em{
         box-sizing: border-box;
         display:block;
         max-width:100%;
-        min-height:55vh;
+        min-height:65vh;
         filter:brightness(20px);
         cursor: grab;
         background-image: url("./shiva1.png");
