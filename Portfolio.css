@@ -308,6 +308,7 @@ em{
     .homepage{
         box-sizing: border-box;
         display:block;
+        margin-top:16%;
         max-width:100%;
         min-height:65vh;
         filter:brightness(20px);
@@ -359,7 +360,7 @@ em{
         display: block;
         position: relative;
         left: 3.2in;
-        top: -7px;
+        top: -50px;
         padding: 0%;
         border: 2px solid firebrick;
         object-fit:fill;
